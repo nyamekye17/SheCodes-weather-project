@@ -17,12 +17,15 @@ input::placeholder {
 }
 a {
   text-decoration: none;
-  color: rgb(64, 60, 60);
+  color: rgb(5, 3, 102);
 }
 
 a:hover {
   text-decoration: underline;
   color: black;
+}
+footer{
+  margin-top: 20px;
 }
 
 .container {
@@ -80,4 +83,7 @@ a:hover {
 
 #measurement {
   font-size: 20px;
+}
+#github-link{
+ margin-top: 0;
 }
